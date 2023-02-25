@@ -31,5 +31,4 @@ void print_traiangle(int size)
 	_putchar('\n');
 	}
 	}
-}
-	
+}	
